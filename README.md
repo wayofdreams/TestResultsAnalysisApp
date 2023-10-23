@@ -13,4 +13,6 @@ This will read the JSON data from mockData.json, convert it to CSV, export the C
 A working .NET development enviroment is required to run this program.
 
 This code uses the Newtonsoft.Json library for JSON parsing.
-This code uses .NET version 7.0 wich can be obtained from microsoft's official site: https://dotnet.microsoft.com/en-us/download
+
+This code uses .NET version 7.0 wich can be obtained from microsoft's official site:
+https://dotnet.microsoft.com/en-us/download
