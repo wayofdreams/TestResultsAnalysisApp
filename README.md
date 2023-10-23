@@ -16,5 +16,6 @@ This code uses the Newtonsoft.Json library for JSON parsing.
 
 A working .NET development environment  is required to run this program. Something like the Microsoft's .NET Coding Pack can get you started:
 https://aka.ms/dotnet-coding-pack-win
+
 This code targets .NET version 7.0 which can be obtained from Microsoft's official site:
 https://dotnet.microsoft.com/en-us/download
