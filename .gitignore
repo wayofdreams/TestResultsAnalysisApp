@@ -2,3 +2,6 @@
 bin/
 obj/
 output.csv
+
+# Visual Studio Code
+.vscode
