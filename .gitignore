@@ -1,7 +1,11 @@
 # Build output
 bin/
 obj/
+
+# Runtime output
 output.csv
 
 # Visual Studio Code
 .vscode
+
+.fake
