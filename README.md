@@ -10,9 +10,11 @@ To run this program, you need to pass two command line arguments: The path of th
 dotnet run .\mockData.json .\output.csv
 ```
 This will read the JSON data from mockData.json, convert it to CSV, export the CSV data to output.csv, and display the metrics in the console.
-A working .NET development enviroment is required to run this program.
+A working .NET development environment  is required to run this program.
 
 This code uses the Newtonsoft.Json library for JSON parsing.
 
-This code uses .NET version 7.0 wich can be obtained from microsoft's official site:
+A working .NET development environment  is required to run this program. Something like the Microsoft's .NET Coding Pack can get you started:
+https://aka.ms/dotnet-coding-pack-win
+This code targets .NET version 7.0 which can be obtained from Microsoft's official site:
 https://dotnet.microsoft.com/en-us/download
