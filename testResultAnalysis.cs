@@ -7,6 +7,7 @@ using Newtonsoft.Json;
 
 /*
 This code provides functionality to parse JSON data containing an array of test cases, each with properties Name, Status, ExecutionTime, and Timestamp. It can then export it to a CSV file and calculate metrics and display them in the console.
+The Name is expected to be a string representing the name of the test case.
 The Status is expected to be either "pass" or "fail".
 The ExecutionTime is expected to be a number representing the execution time in seconds.
 The Timestamp is expected to be a string representing a date and time in the format "yyyy-MM-ddTHH:mm:ss".
